@@ -1,0 +1,34 @@
+
+#Python calc
+
+"""num1 = float(input("enter the first number: "))
+op =input("Enter Operator: ")
+num2 = float(input("enter the second number: "))
+
+if op == "+":
+        print(num1 + num2)
+elif op == "-":
+        print(num1 - num2)
+elif op == "*":
+        print(num1 * num2)
+elif op == "/":
+        print(num1 / num2)
+else:
+        print("invalid operator")"""
+
+
+#dictionary
+
+"""monthConversions = {
+    "Jan": "January",
+    "Feb": "February",
+    "Mar": "March",
+    "Apr": "April"
+}
+
+print(monthConversions["Jan"])
+print(monthConversions.get("jan", "not a valid key "))"""
+
+#whileLoop
+
+
